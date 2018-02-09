@@ -3,3 +3,8 @@
 /Users/lsq/vsprojects/Strategy/Strategy/bin/Debug/Strategy.exe
 /Users/lsq/vsprojects/Strategy/Strategy/obj/x86/Debug/Strategy.exe
 /Users/lsq/vsprojects/Strategy/Strategy/obj/x86/Debug/Strategy.exe.mdb
+/Users/lsq/vsprojects/DesignPatterns/StrategyPattern/Strategy/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/lsq/vsprojects/DesignPatterns/StrategyPattern/Strategy/bin/Debug/Strategy.exe.mdb
+/Users/lsq/vsprojects/DesignPatterns/StrategyPattern/Strategy/bin/Debug/Strategy.exe
+/Users/lsq/vsprojects/DesignPatterns/StrategyPattern/Strategy/obj/x86/Debug/Strategy.exe
+/Users/lsq/vsprojects/DesignPatterns/StrategyPattern/Strategy/obj/x86/Debug/Strategy.exe.mdb

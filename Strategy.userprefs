@@ -9,7 +9,7 @@
       <File FileName="Strategy/FlyNoWay.cs" Line="11" Column="36" />
       <File FileName="Strategy/Quack.cs" Line="13" Column="3" />
       <File FileName="Strategy/Squeak.cs" Line="15" Column="3" />
-      <File FileName="Strategy/MallardDuck.cs" Line="18" Column="24" />
+      <File FileName="Strategy/MallardDuck.cs" Line="16" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
